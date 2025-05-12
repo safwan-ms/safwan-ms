@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" width="240" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif"/>
 
-- 🔭 I’m currently learning on *Full-Stack Nextjs Course*
+- 🔭 I’m currently working on *Netfilx Clone using Nextjs*
   
 - 🌱 I believe in *Clean code, simple solutions, and continuous learning*.<br>
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://safwaxportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://safwax-portfolio.vercel.app)
 
 - 💬 Ask me about **MERN Stack**
 
@@ -34,7 +34,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
