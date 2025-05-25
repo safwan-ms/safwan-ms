@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" width="240" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif"/>
 
-- 🔭 I’m currently working on *Netfilx Clone using Nextjs*
+- 🔭 I’m currently working on *Real Time Chat Application using MERN Stack*
   
 - 🌱 I believe in *Clean code, simple solutions, and continuous learning*.<br>
   
